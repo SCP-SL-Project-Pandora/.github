@@ -5,4 +5,4 @@
     </div>
 </p>
 
-<h1 align="center">Lol</h1>
+<h1 align="center">Project Pandora</h1>

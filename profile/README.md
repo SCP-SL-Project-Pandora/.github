@@ -11,6 +11,6 @@ Project Pandora ist eine Community im Spiel SCP:Secret Labatory unser Ziel ist e
 
 | Name           | Aufgabengebiet                  | GitHub Link                           |
 | -------------- | ------------------------------- | ------------------------------- |
-| Kuze           |                                 | [Kuze](https://github.com/drkuze) |
-| Vxrpenter      |                                 | [Vxrpenter](https://github.com/Vxrpenter) |
-| Mega5000201    |                                 | [Mega5000201](https://github.com/Mega500201) |
+|<img src="https://github.com/SCP-SL-Project-Pandora/.github/blob/main/images/Kuze.jpg" width="100" height="100" style="border-radius:50%">| Kuze           |                                 | [Kuze](https://github.com/drkuze) |
+|<img src="https://github.com/SCP-SL-Project-Pandora/.github/blob/main/images/Vxprenter.png" width="100" height="100" style="border-radius:50%">| Vxrpenter      |                                 | [Vxrpenter](https://github.com/Vxrpenter) |
+|<img src="https://github.com/SCP-SL-Project-Pandora/.github/blob/main/images/Mega5000201.jpg" width="100" height="100" style="border-radius:50%">| Mega5000201    |                                 | [Mega5000201](https://github.com/Mega500201) |

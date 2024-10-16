@@ -6,3 +6,5 @@
 </p>
 
 <h1 align="center">Project Pandora</h1>
+
+<h2 algin="center">.</h2>

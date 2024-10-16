@@ -9,6 +9,8 @@
 
 Project Pandora ist eine Community im Spiel SCP:Secret Labatory unser Ziel ist es einen Server aufzubauen der den Wünschen der Community entspricht und vorallem ein willkommender Platz für jeden sein soll!
 
+Unser Team:
+
 | Name           | Aufgabengebiet                  |
 | -------------- | ------------------------------- |
 |<img src="https://github.com/SCP-SL-Project-Pandora/.github/blob/main/images/Kuze.jpg" width="100" height="100" style="border-radius:50%">| [Kuze](https://github.com/drkuze)  | 
